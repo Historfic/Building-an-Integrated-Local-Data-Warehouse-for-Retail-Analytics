@@ -7,7 +7,7 @@ dimensions such as date, product, store and customer.
 
 
 **Architect Diagram**
-![alt text](Architect Diagram.jpg)
+![alt text](<Architect Diagram.jpg>)
 
 
 
