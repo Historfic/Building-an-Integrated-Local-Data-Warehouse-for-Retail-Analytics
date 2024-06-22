@@ -6,6 +6,13 @@ various data sources, allowing for detailed insights and visualizations of sales
 dimensions such as date, product, store and customer. 
 
 
+**Architect Diagram**
+![alt text](Architect Diagram.jpg)
+
+
+
+
+
 #### **Data Warehouse Schema**
 
 ![alt text](image.png)
