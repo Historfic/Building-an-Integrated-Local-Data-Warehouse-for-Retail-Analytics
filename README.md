@@ -1,4 +1,4 @@
-#** Retail Insights in 2023**
+# ** Retail Insights in 2023**
 
 #### **Project Overview**
 This project aim is to create a comprehensive data warehouse for retail sales analysis. The data warehouse integrates
