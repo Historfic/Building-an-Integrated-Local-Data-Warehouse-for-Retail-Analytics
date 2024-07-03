@@ -6,6 +6,11 @@ various data sources, allowing for detailed insights and visualizations of sales
 dimensions such as date, product, store and customer. 
 
 
+
+**Dashboad in Power BI**
+![Alt text for your image](<Retail Insights.jpg>)
+
+
 **Architect Diagram**
 ![alt text](<Architect Diagram.jpg>)
 
